@@ -1,4 +1,4 @@
-# Homebrew (un)installer
+ # Homebrew (un)installer
 
 ## Install Homebrew (on macOS or Linux)
 
